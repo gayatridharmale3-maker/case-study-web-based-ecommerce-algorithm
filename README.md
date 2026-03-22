@@ -60,4 +60,3 @@ Calculates total cart value.
 
 ---
 
-## 📂 Project Structure# case-study-web-based-ecommerce-algorithm
